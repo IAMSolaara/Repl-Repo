@@ -22,7 +22,6 @@
  * Modificatori:
  * + setLeft(in tn: TreeNode): void
  * + setRight(in tn: TreeNode): void
- * + setVal(in val: int): void
  *
  * Altri metodi:
  * + toString(): String
